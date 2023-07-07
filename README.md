@@ -1,8 +1,8 @@
-#PROYECTO FINAL DE TRATAMIENTO DE DATOS
+# PROYECTO FINAL DE TRATAMIENTO DE DATOS
 ### Nombre: Francisco Javier Hermosa Machado
 ### Clasificador de Imagenes
 
-##Requerimiento del proyecto
+## Requerimiento del proyecto
 
     El objetivo de esta practica es asentar los conocimientos que se han obtenido durante el curso.
     Para ello vamos a crear un clasificador de tipos de carnes que se utiliza en la industria real. Es un ejemplo
@@ -18,7 +18,7 @@
 Se pide:
 
     1. Crear un repositorio de Github (publico) en el que se va a subir un jupyter notebook y un archivo README.md (como mínimo)
-
+ 
     2. Obtener un clasificador de imágenes de forma que dada una nueva imagen se pueda obtener la clase correspondiente.
 
     3. Se pide obtener las matrices de confusión del modelo, la matriz de confusión del error en training y la de test.
