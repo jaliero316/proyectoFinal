@@ -16,6 +16,7 @@
     Con el fin de que todo el mundo elija el mismo conjunto de entrenamiento y test. Los datos de test NO pueden utilizarse durante el proceso de entrenamiento, únicamente para evaluar el modelo final.
 
 Se pide:
+
     1. Crear un repositorio de Github (publico) en el que se va a subir un jupyter notebook y un archivo README.md (como mínimo)
 
     2. Obtener un clasificador de imágenes de forma que dada una nueva imagen se pueda obtener la clase correspondiente.
